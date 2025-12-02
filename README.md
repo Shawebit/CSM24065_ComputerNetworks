@@ -1,2 +1,2 @@
-# CSM24065_ComputerNetworks
-Collection of all the Computer Networks assignments for MCA-III (Tezpur University)
+# CSM24065_CNAssignment
+This repository is for Computer Networks (MCA - 3rd Semester)
