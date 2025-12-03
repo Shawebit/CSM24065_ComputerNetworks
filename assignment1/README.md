@@ -6,7 +6,6 @@ This assignment demonstrates basic TCP client-server communication where the cli
 
 1. `tcp_server.c` - Minimal TCP server program
 2. `tcp_client.c` - Minimal TCP client program
-3. `Makefile` - For compiling the programs
 
 ## Compilation
 
@@ -41,5 +40,6 @@ xterm h1 h2
 ```bash
 ./client
 ```
+
 
 CSM24065
