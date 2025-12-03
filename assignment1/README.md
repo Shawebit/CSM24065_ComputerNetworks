@@ -12,7 +12,8 @@ This assignment demonstrates basic TCP client-server communication where the cli
 
 To compile both programs, run:
 ```bash
-make
+gcc tcp_server -o server
+gcc tcp_client -o client
 ```
 
 This will create two executables:
@@ -33,17 +34,12 @@ xterm h1 h2
 
 3. In h1 terminal, start the server:
 ```bash
-./tcp_server
+./server
 ```
 
 4. In h2 terminal, run the client:
 ```bash
-./tcp_client
+./client
 ```
 
-## Cleaning Up
-
-To remove the compiled executables, run:
-```bash
-make clean
-```
+CSM24065

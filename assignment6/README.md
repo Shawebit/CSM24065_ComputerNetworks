@@ -17,7 +17,7 @@ The provided [packet_analyzer.c](file:///c%3A/Users/spysc/OneDrive/Desktop/CSM24
 
 ## Compilation
 ```bash
-make
+gcc packet_analyzer.c -o packet_analyzer
 ```
 
 ## Usage
@@ -59,3 +59,6 @@ Note: Root privileges are required to create raw sockets.
 
 ## Learning Outcomes
 1. Knowledge of TCP/IP libraries.
+
+
+CSM24065

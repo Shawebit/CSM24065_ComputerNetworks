@@ -20,7 +20,8 @@ Write a client server socket program in TCP for uploading and downloading files 
 
 ## Compilation
 ```bash
-make
+gcc file_server.c -o file_server 
+gcc file_client.c -o file_client
 ```
 
 ## Usage
@@ -50,3 +51,6 @@ make
 
 ## Learning Outcomes
 1. Use of TCP for file transfer.
+
+
+CSM24065

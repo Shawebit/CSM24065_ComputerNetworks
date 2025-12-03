@@ -17,7 +17,7 @@ Do the same attack as given in assignment no. 11 with ICMP packets using RAW soc
 
 ## Compilation
 ```bash
-make
+gcc icmp_flood.c -o icmp_flood
 ```
 
 Note: Root privileges are required to create raw sockets.
@@ -38,3 +38,6 @@ sudo ./icmp_flood 10.0.0.2
 ## Learning Outcomes
 1. Use of RAW sockets to generate ICMP based flooding attack.
 2. Understanding the pattern of ICMP communication for DDoS attack.
+
+
+CSM24065

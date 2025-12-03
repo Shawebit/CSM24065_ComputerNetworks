@@ -16,7 +16,7 @@ Create a binary tree topology with 7 switches in mininet. Capture packets at the
 
 ## Compilation
 ```bash
-make
+gcc packet_analyzer -o packet_analyzer -lpcap
 ```
 
 Note: Requires libpcap development library
@@ -55,3 +55,6 @@ sudo apt-get install libpcap-dev
 ## Learning Outcomes
 1. Learning to analyze packets and its corresponding protocols.
 2. Learning the roles of L2/L3/L4 protocols for a communication.
+
+
+CSM24065

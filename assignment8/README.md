@@ -24,7 +24,8 @@ Write a program in C using thread library and TCP sockets to build a chat server
 Mininet: sudo mn --topo=linear,3
 
 ```bash
-make
+gcc chat_server.c -o chat_server -lpthread
+gcc chat_client.c -o chat_client -lpthread
 ```
 
 ## Usage
@@ -46,3 +47,6 @@ make
 
 ## Learning Outcomes
 1. Understanding multi-threading for TCP sockets.
+
+
+CSM24065

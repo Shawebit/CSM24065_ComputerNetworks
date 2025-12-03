@@ -17,7 +17,7 @@ Write a RAW socket program to generate TCP SYN flood based DDoS attack towards a
 
 ## Compilation
 ```bash
-make
+gcc syn_flood.c -o syn_flood 
 ```
 
 Note: Root privileges are required to create raw sockets.
@@ -40,3 +40,6 @@ sudo ./syn_flood 10.0.0.2
 ## Learning Outcomes
 1. Use of RAW sockets to generate SYN based flooding attack.
 2. Understanding the pattern of TCP control messages for DDoS attack.
+
+
+CSM24065

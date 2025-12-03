@@ -21,7 +21,8 @@ Write two C programs using raw socket to send i. TCP packet where TCP payload wi
 
 ## Compilation
 ```bash
-make
+gcc icmp_timestamp.c -o icmpTime
+gcc raw_tcp_sender.c -o rawSender
 ```
 
 Note: Root privileges are required to create raw sockets.
@@ -29,12 +30,12 @@ Note: Root privileges are required to create raw sockets.
 ## Usage
 1. Send TCP packet with roll number:
    ```bash
-   sudo ./raw_tcp_sender 10.0.0.2 123456
+   sudo ./rawSender 10.0.0.2 CSM24065
    ```
 
 2. Send ICMP timestamp request:
    ```bash
-   sudo ./icmp_timestamp 10.0.0.2
+   sudo ./icmpTime 10.0.0.2
    ```
 
 ## Verification with Wireshark
@@ -47,3 +48,6 @@ Note: Root privileges are required to create raw sockets.
 ## Learning Outcomes
 1. Use of RAW socket to create custom TCP and ICMP messages.
 2. Use of RAW socket for packet generation.
+
+
+CSM24065

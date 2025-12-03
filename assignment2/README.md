@@ -15,19 +15,20 @@ Implementation of a fruit shop management system using TCP socket programming wi
 
 ## Compilation
 ```bash
-make
+gcc tcp_server -o server
+gcc tcp_client -o client
 ```
 
 ## Usage
 1. Start the server:
    ```bash
-   ./tcp_server
+   ./server
    ```
 
 2. In another terminal, run clients:
    ```bash
-   ./tcp_client apple 5
-   ./tcp_client banana 10
+   ./client apple 5
+   ./client banana 10
    ```
 
 ## Features Implemented
@@ -36,3 +37,5 @@ make
 - Transaction tracking
 - Client identification
 - Real-time stock updates
+
+CSM24065

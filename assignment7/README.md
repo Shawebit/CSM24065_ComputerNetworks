@@ -21,7 +21,8 @@ Write UDP client server socket program where client sends one/two number(s) (int
 
 ## Compilation
 ```bash
-make
+gcc udp_calculator_server.c -o udp_calculator_server -lm
+gcc udp_calculator_client.c -o udp_calculator_client -lm
 ```
 
 ## Usage
@@ -47,3 +48,6 @@ make
 
 ## Learning Outcomes
 1. Understanding reliability of UDP for transactions.
+
+
+CSM24065
