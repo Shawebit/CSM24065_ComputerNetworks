@@ -60,5 +60,8 @@ Note: Root privileges are required to create raw sockets.
 ## Learning Outcomes
 1. Knowledge of TCP/IP libraries.
 
+## Output Screenshots
+
+![Screenshot](assgn6.png)
 
 CSM24065

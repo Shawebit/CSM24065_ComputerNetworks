@@ -41,5 +41,8 @@ The topology can be scaled by changing the radix parameter:
 1. Understanding mininet API.
 2. Learning to perform experiments in virtual networks.
 
+## Output Screenshots
+
+![Screenshot](assgn14.png)
 
 CSM24065

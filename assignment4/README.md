@@ -63,5 +63,8 @@ Time     Host A           Network           Host B
 ## Learning Outcomes
 1. Knowledge of packet capturing tools, protocols and headers.
 
+## Output Screenshots
+
+![Screenshot](assgn4.png)
 
 CSM24065

@@ -49,5 +49,8 @@ Note: Root privileges are required to create raw sockets.
 1. Use of RAW socket to create custom TCP and ICMP messages.
 2. Use of RAW socket for packet generation.
 
+## Output Screenshots
+
+![Screenshot](assgn10.png)
 
 CSM24065

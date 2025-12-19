@@ -52,5 +52,9 @@ gcc file_client.c -o file_client
 ## Learning Outcomes
 1. Use of TCP for file transfer.
 
+## Output Screenshots
+
+![Screenshot 1](a9.png)
+![Screenshot 2](assgn9.png)
 
 CSM24065

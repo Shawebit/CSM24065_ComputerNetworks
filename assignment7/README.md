@@ -49,5 +49,8 @@ gcc udp_calculator_client.c -o udp_calculator_client -lm
 ## Learning Outcomes
 1. Understanding reliability of UDP for transactions.
 
+## Output Screenshots
+
+![Screenshot](assgn7.png)
 
 CSM24065

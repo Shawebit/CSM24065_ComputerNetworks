@@ -41,5 +41,8 @@ sudo ./syn_flood 10.0.0.2
 1. Use of RAW sockets to generate SYN based flooding attack.
 2. Understanding the pattern of TCP control messages for DDoS attack.
 
+## Output Screenshots
+
+![Screenshot](assgn11.png)
 
 CSM24065

@@ -42,4 +42,10 @@ xterm h1 h2
 ```
 
 
+
+## Output Screenshots
+
+![Screenshot 1](a1.png)
+![Screenshot 2](assgn1.png)
+
 CSM24065

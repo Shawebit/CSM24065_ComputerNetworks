@@ -56,5 +56,9 @@ sudo apt-get install libpcap-dev
 1. Learning to analyze packets and its corresponding protocols.
 2. Learning the roles of L2/L3/L4 protocols for a communication.
 
+## Output Screenshots
+
+![Screenshot 1](a13.png)
+![Screenshot 2](assgn13.png)
 
 CSM24065

@@ -38,4 +38,8 @@ gcc tcp_client -o client
 - Client identification
 - Real-time stock updates
 
+## Output Screenshots
+
+![Screenshot](assgn2.png)
+
 CSM24065

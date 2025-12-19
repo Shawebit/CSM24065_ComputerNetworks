@@ -39,5 +39,8 @@ sudo ./icmp_flood 10.0.0.2
 1. Use of RAW sockets to generate ICMP based flooding attack.
 2. Understanding the pattern of ICMP communication for DDoS attack.
 
+## Output Screenshots
+
+![Screenshot](assgn12.png)
 
 CSM24065

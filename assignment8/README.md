@@ -48,5 +48,8 @@ gcc chat_client.c -o chat_client -lpthread
 ## Learning Outcomes
 1. Understanding multi-threading for TCP sockets.
 
+## Output Screenshots
+
+![Screenshot](assgn8.png)
 
 CSM24065
