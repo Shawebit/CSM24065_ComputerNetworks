@@ -1,31 +1,15 @@
-# CN Lab - Assignment 3
+CN Lab – Assignment 3
+Objective:
+To gain experience of UDP Socket Programming for simple applications.
 
-## Objective
-UDP Client-Server Socket Programming
+Exercise:
+Redo assignment 2 using UDP socket.
 
-## Exercise
-Implement a UDP client-server communication where the client sends messages to the server and the server responds back.
+Steps/ Hints: (if any)
+Same as given in Assignment 1.
 
-## Files Included
-1. `udp_server.c` - UDP server program
-2. `udp_client.c` - UDP client program
-
-## Compilation
-```bash
-gcc udp_server.c -o udp_server
-gcc udp_client.c -o udp_client
-```
-
-## Usage
-1. Start the server:
-   ```bash
-   ./udp_server
-   ```
-
-2. In another terminal, run the client:
-   ```bash
-   ./udp_client
-   ```
+Learning Outcomes:
+1. Basics of UDP socket programming.
 
 ## Output Screenshots
 
