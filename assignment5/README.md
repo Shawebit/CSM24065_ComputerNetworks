@@ -1,18 +1,17 @@
-Assignment 5
-Objective:
+# CN Lab – Assignment 5
+
+## Objective
 To gain knowledge of more packet capturing tools.
 
-Exercise:
+## Exercise
 Learn and use maximum number of packet generation tools.
 
-Steps/ Hints: (if any)
+## Steps/Hints
 1. Install Iperf, D-ITG etc. and send traffic among mininet hosts.
-
-Learning Outcomes:
-1. Knowledge of packet generation and capturing tools.
 
 ## Output Screenshots
 
 ![Screenshot](a5.png)
 
-CSM24065
+---
+`CSM24065`

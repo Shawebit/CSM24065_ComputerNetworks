@@ -1,24 +1,20 @@
-Assignment 4:
-Objective:
+# CN Lab – Assignment 4
+
+## Objective
 To gain knowledge of packet capturing tools and understand header structures.
 
-Exercise:
-Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to
-show the steps in the protocols recorded in the captured file (saved in the .pcap file
-of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be
-extracted from the .pcap file.
+## Exercise
+Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to show the steps in the protocols recorded in the captured file (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file.
 
-Steps/ Hints: (if any)
-1. Install wireshark in your linux vm with mininet,
-2. Start capturing at any interface,
-3. Ping any two hosts,
-4. Analyze.
-
-Learning Outcomes:
-1. Knowledge of packet capturing tools, protocols and headers.
+## Steps/Hints
+1. Install wireshark in your linux vm with mininet
+2. Start capturing at any interface
+3. Ping any two hosts
+4. Analyze
 
 ## Output Screenshots
 
 ![Screenshot](assgn4.png)
 
-CSM24065
+---
+`CSM24065`
